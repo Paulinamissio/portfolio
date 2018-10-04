@@ -1,0 +1,65 @@
+html {
+  font-family: "Noto Sans", sans-serif;
+}
+
+i {
+  font-family: "Noto Sans Japanese", sans-serif;
+}
+
+header {
+  background: #FBDCDB;
+}
+
+h1 {
+  margin-left: 20%;
+  color: #FFFFFF;
+  font-size: 160%;
+  line-height: 99%;
+  /*font-family: 'Alex Brush', cursive;*/
+  font-family: 'Shadows Into Light', cursive;
+}
+
+nav {
+  margin-right: 20%;
+  font-size: 160%;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  /*border-bottom: 1.5px solid #d89fb0;*/
+  text-decoration: none;
+}
+
+nav a:hover {
+  border-color: #FCEFE6;
+  color: #FCEFE6;
+}
+
+@media only screen and (min-width: 25em) {
+
+  .max-length-eng {
+    max-width: 17rem;
+  }
+
+}
+
+@media only screen and (min-width: 38em) {
+
+  .max-length-eng {
+    max-width: 24em;
+  }
+
+}
+
+@media only screen and (min-width: 60em) {
+
+  .logo {
+    text-align: left;
+  }
+
+  ul {
+    text-align: right;
+  }
+
+}
