@@ -13,7 +13,7 @@ header {
 
 .footertext{
   text-align: center;
-  color: black;
+  color: #FBDCDB;
 }
 
 /*body {
@@ -41,18 +41,16 @@ img:hover{
 
 h1 {
   /*text-align: center;
-  padding-left: 60%;*/
-  text-align: center;
-  padding-left: 90%;
+  padding-left: 90%;*/
   color: #FFFFFF;
-  font-size: 240%;
+  font-size: 250%;
   line-height: 99%;
   /*font-family: 'Alex Brush', cursive;*/
   font-family: 'Shadows Into Light', cursive;
 }
 
 nav {
-  font-size: 160%;
+  font-size: 250%;
   text-align: center;
 }
 
