@@ -41,7 +41,6 @@ h1 {
   /*color: #F4ABAB;*/
   font-size: 250%;
   line-height: 99%;
-  /*font-family: 'Alex Brush', cursive;*/
   font-family: 'Shadows Into Light', cursive;
 }
 
@@ -53,7 +52,6 @@ nav {
 nav a {
   color: #FFFFFF;
   /*color: #F4ABAB;*/
-  /*border-bottom: 1.5px solid #d89fb0;*/
   text-decoration: none;
 }
 
