@@ -2,12 +2,9 @@ html {
   font-family: "Noto Sans", sans-serif;
 }
 
-i {
-  font-family: "Noto Sans Japanese", sans-serif;
-}
-
 header {
   background: #FBDCDB;
+  /*background: #FCEFE6;*/
   /*z-index: 1000;*/
 }
 
@@ -40,9 +37,8 @@ img:hover{
 }
 
 h1 {
-  /*text-align: center;
-  padding-left: 90%;*/
   color: #FFFFFF;
+  /*color: #F4ABAB;*/
   font-size: 250%;
   line-height: 99%;
   /*font-family: 'Alex Brush', cursive;*/
@@ -55,7 +51,8 @@ nav {
 }
 
 nav a {
-  color: white;
+  color: #FFFFFF;
+  /*color: #F4ABAB;*/
   /*border-bottom: 1.5px solid #d89fb0;*/
   text-decoration: none;
 }
