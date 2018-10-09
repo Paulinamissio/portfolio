@@ -3,7 +3,7 @@ html {
 }
 
 header {
-  background: #FBDCDB;
+  background: #F9CFCF;
   /*background: #FCEFE6;*/
   /*z-index: 1000;*/
 }
@@ -39,25 +39,30 @@ img:hover{
 h1 {
   color: #FFFFFF;
   /*color: #F4ABAB;*/
-  font-size: 250%;
+  font-size: 200%;
   line-height: 99%;
   font-family: 'Shadows Into Light', cursive;
 }
 
 nav {
-  font-size: 250%;
+  font-size: 270%;
   text-align: center;
 }
 
 nav a {
   color: #FFFFFF;
-  /*color: #F4ABAB;*/
   text-decoration: none;
 }
 
 nav a:hover {
-  border-color: #FCEFE6;
-  color: #FCEFE6;
+  border-color: #F4ABAB;
+  color: #F4ABAB;
+}
+
+footer {
+  color: #F9CFCF;
+  font-size:
+  text-align: center;
 }
 
 @media only screen and (min-width: 25em) {
