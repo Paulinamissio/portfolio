@@ -3,7 +3,7 @@ html {
 }
 
 header {
-  background: #F9CFCF;
+  background: #FCD5D4;
   /*background: #FCEFE6;*/
   /*z-index: 1000;*/
 }
@@ -36,14 +36,6 @@ img:hover{
   opacity: 1;
 }
 
-h1 {
-  color: #FFFFFF;
-  /*color: #F4ABAB;*/
-  font-size: 200%;
-  line-height: 99%;
-  font-family: 'Shadows Into Light', cursive;
-}
-
 nav {
   font-size: 270%;
   text-align: center;
@@ -61,8 +53,7 @@ nav a:hover {
 
 footer {
   color: #F9CFCF;
-  font-size:
-  text-align: center;
+  font-size: 85%;
 }
 
 @media only screen and (min-width: 25em) {
@@ -85,6 +76,16 @@ footer {
 
   ul {
     text-align: right;
+  }
+
+}
+
+h1 {
+  color: #FFFFFF;
+  /*color: #F4ABAB;*/
+  font-size: 200%;
+  line-height: 99%;
+  font-family: 'Shadows Into Light', cursive;
   }
 
 }
