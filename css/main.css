@@ -13,10 +13,6 @@ header {
   color: #FBDCDB;
 }
 
-/*body {
-  padding-top: 10%;
-}*/
-
 p {
   color: white;
 }
@@ -36,6 +32,13 @@ img:hover{
   opacity: 1;
 }
 
+h1 {
+  color: #FFFFFF;
+  font-size: 200%;
+  line-height: 99%;
+  font-family: 'Shadows Into Light', cursive;
+}
+
 nav {
   font-size: 270%;
   text-align: center;
@@ -51,41 +54,11 @@ nav a:hover {
   color: #F4ABAB;
 }
 
-footer {
-  color: #F9CFCF;
-  font-size: 85%;
-}
-
-@media only screen and (min-width: 25em) {
-
-  .max-length-eng {
-    max-width: 17rem;
-  }
-
-}
-
-@media only screen and (min-width: 38em) {
-
-  .max-length-eng {
-    max-width: 24em;
-  }
-
-}
-
 @media only screen and (min-width: 60em) {
 
   ul {
     text-align: right;
   }
 
-}
-
-h1 {
-  color: #FFFFFF;
-  /*color: #F4ABAB;*/
-  font-size: 200%;
-  line-height: 99%;
-  font-family: 'Shadows Into Light', cursive;
-  }
 
 }
