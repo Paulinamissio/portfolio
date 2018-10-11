@@ -67,42 +67,40 @@ hr {
   color: #FCEFE6;
 }
 
-/*<p>*/
-/* Split the screen in half */
-.split {
-  height: 100%;
-  width: 50%;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  padding-top: 20px;
-}
-
-/* Control the left side */
-.left {
-  left: 9%;
-}
-
-/* Control the right side */
-.right {
-  right: 9%;
-}
-
-/* If you want the content centered horizontally and vertically */
-.centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  text-align: center;
-}
-
-/* Style the image inside the centered container, if needed */
-.centered img {
-  width: 400px;
-  padding-top: 20%;
-}
-
 p {
   color: black;
+}
+
+/*about me section*/
+
+.grid {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  letter-spacing: -.31em;
+  flex-flow: row wrap;
+  text-rendering: optimizeSpeed;
+}
+
+.about-me{
+  background: #EAEAEA;
+}
+
+
+@media only screen and (min-width: 38em) {
+
+/*about me*/
+
+.wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 52em;
+  width: 100%;
+}
+
+.gutter {
+  padding-left: 1.3rem;
+  padding-right: 1.3rem;
+}
+
 }
