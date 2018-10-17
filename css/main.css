@@ -19,12 +19,12 @@ header {
   top: 0px;
 }*/
 
-img {
+.embed-item {
   opacity: 0.7;
   transition: 0.5s ease;
 }
 
-img:hover{
+.embed-item:hover{
   opacity: 1;
 }
 
@@ -83,7 +83,7 @@ p {
 }
 
 .about-me{
-  background: #EAEAEA;
+  background: #F2F2F2;
 }
 
 
@@ -103,4 +103,15 @@ p {
   padding-right: 1.3rem;
 }
 
+.selfie {
+  -webkit-clip-path: circle(33% at 50% 50%);
+  /*clip-path: circle (33% at 50% 50%);*/
+  max-width: 60%;
+}
+
+}
+
+.about-myself{
+  font-family: "Noto Sans", sans-serif;
+  display: block;
 }
