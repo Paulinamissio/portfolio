@@ -3,14 +3,14 @@ html {
 }
 
 header {
-  background: #FCD5D4;
+  background: #DBA7B4;
   /*background: #FCEFE6;*/
   /*z-index: 1000;*/
 }
 
 .footertext{
   text-align: center;
-  color: #FBDCDB;
+  color: #DBA7B4;
 }
 
 /*.sticky {
@@ -40,6 +40,11 @@ nav {
   text-align: center;
 }
 
+.batter {
+  width: 200%;
+  padding-left: 14rem;
+}
+
 nav a {
   color: #FFFFFF;
   text-decoration: none;
@@ -59,16 +64,20 @@ nav a:hover {
 
 }
 
-h3,h4,h5{
-  color: #F4ABAB;
+h3,h4,h5 {
+  color: #DBA7B4;
 }
 
-hr {
-  color: #FCEFE6;
+.hr {
+  color: #DBA7B4;
 }
 
 p {
   color: black;
+}
+
+.p-1 {
+  color: #DBA7B4;
 }
 
 /*about me section*/
@@ -114,4 +123,42 @@ p {
 .about-myself{
   font-family: "Noto Sans", sans-serif;
   display: block;
+}
+
+/*Batterupbakery*/
+
+.social-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.icon-social {
+  height: 36px;
+  width: 36px;
+}
+
+.img-1{
+  width: 210%;
+}
+
+.bakery-1 {
+  width: 150%;
+}
+
+.bakery-2 {
+  width: 150%;
+}
+
+.colour {
+  width: 150%;
+}
+
+.fonts {
+  width: 90%;
+}
+
+/*Gardenlife*/
+
+.visualdesign {
+  width: 250%;
 }
