@@ -88,6 +88,12 @@ nav a:hover {
 
 }
 
+.icon-social {
+  height: 36px;
+  width: 36px;
+  display: block;
+}
+
 h3,h4,h5 {
   color: #DBA7B4;
 }
@@ -129,12 +135,6 @@ p {
 .social-list {
   list-style-type: none;
   padding-left: 0;
-}
-
-
-.icon-social {
-  height: 36px;
-  width: 36px;
 }
 
 .img-1{
