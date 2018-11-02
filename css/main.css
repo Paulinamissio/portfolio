@@ -13,6 +13,7 @@ header {
   color: #727272;
   font-size: 96%;
 }
+
 /*Cover Text*/
 .details-inner {
   transform: translateY(-50%);
@@ -57,7 +58,6 @@ header {
 }
 
 h1 {
-  color: #FFFFFF;
   font-size: 260%;
   line-height: 88%;
   /*font-family: 'Shadows Into Light', cursive;*/
@@ -91,7 +91,7 @@ nav a:hover {
 .icon-social {
   height: 36px;
   width: 36px;
-  display: block;
+  display: inline-block;
 }
 
 h3,h4,h5 {
@@ -137,16 +137,13 @@ p {
   padding-left: 0;
 }
 
-.img-1{
-  width: 210%;
-}
-
 .bakery-1 {
   width: 150%;
 }
 
 .bakery-2 {
-  width: 150%;
+  display: block;
+  width: 170%;
 }
 
 .colour {
@@ -160,7 +157,8 @@ p {
 /*Gardenlife*/
 
 .visualdesign {
-  width: 250%;
+  display: block;
+  width: 240%;
 }
 
 /*rebranding*/
@@ -170,6 +168,14 @@ p {
 }
 
 @media only screen and (min-width: 38em) {
+
+.name {
+    color: #FFFFFF;
+}
+
+  .img-1{
+    width: 210%;
+  }
 
 /*about me*/
 
