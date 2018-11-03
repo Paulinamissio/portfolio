@@ -99,7 +99,7 @@ h3,h4,h5 {
 }
 
 .hr {
-  color: #DBA7B4;
+  border: 1px solid #DBA7B4;
 }
 
 p {
@@ -173,6 +173,10 @@ p {
     color: #FFFFFF;
 }
 
+.package {
+  width: 205%;
+}
+
   .img-1{
     width: 210%;
   }
@@ -210,4 +214,18 @@ p {
     width: 200%;
     padding-left: 14rem;
   }
+}
+
+/*Package*/
+
+/*.package {
+  width: 205%;
+} */
+
+.package-1 {
+  width: 285%;
+}
+
+.top {
+  text-align: center;
 }
