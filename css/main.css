@@ -156,6 +156,17 @@ p {
 
 /*Gardenlife*/
 
+.btn {
+  background-color: #727272;
+  border-color: #727272;
+  color: white;
+}
+
+.btn a{
+  color: #DBA7B4;
+  background-color: white;
+}
+
 .visualdesign {
   display: block;
   width: 240%;
