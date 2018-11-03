@@ -58,7 +58,7 @@ header {
 }
 
 h1 {
-  font-size: 260%;
+  font-size: 250%;
   line-height: 88%;
   /*font-family: 'Shadows Into Light', cursive;*/
   font-family: 'Just Another Hand', cursive;
@@ -103,7 +103,7 @@ h3,h4,h5 {
 }
 
 p {
-  color: black;
+  color: #727272;
 }
 
 .p-1 {
@@ -228,4 +228,7 @@ p {
 
 .top {
   text-align: center;
+  font-family: "Noto Sans", sans-serif;
+  color: #727272;
+  font-size: 96%;
 }
