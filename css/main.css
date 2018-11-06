@@ -24,14 +24,12 @@ header {
   overflow: hidden;
 }
 
-h2{
+h2 {
   text-transform: uppercase;
   color: black;
   text-align: center;
   font-size: 17px;
 }
-
-
 
 .title {
   transition: color 0.2s ease;
