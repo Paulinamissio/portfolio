@@ -49,6 +49,7 @@ header {
 
 .details-inner {
   opacity: 0;
+  background-color: black;
   text-transform: uppercase;
   text-align: center;
   color: #fff;
@@ -61,12 +62,13 @@ header {
 }
 
 .title {
-  transition: color 0.2s ease;
+  transition: color 0.5s ease;
 }
 
 .embed-item {
   opacity: 0.7;
   transition: 0.5s ease;
+
 }
 
 .embed-item:hover{
@@ -75,14 +77,6 @@ header {
 
 /*end*/
 
-h1 {
-  font-size: 250%;
-  line-height: 88%;
-  /*font-family: 'Shadows Into Light', cursive;*/
-  font-family: 'Just Another Hand', cursive;
-}
-
-/*end*/
 .footertext {
   text-align: center;
   color: #DBA7B4;
@@ -99,7 +93,6 @@ nav a {
 }
 
 nav a:hover {
-  border-color: #F4ABAB;
   color: #F4ABAB;
 }
 
@@ -124,6 +117,7 @@ nav a:hover {
 
 h3,h4,h5 {
   color: #DBA7B4;
+  font-size: 23px;
 }
 
 .hr {
