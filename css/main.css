@@ -5,8 +5,8 @@ html {
 /*watermark*/
 
 .i-64 {
-  height: 134px;
-  width: 134px;
+  height: 124px;
+  width: 124px;
 }
 
 img {
@@ -30,13 +30,14 @@ header {
   /*z-index: 1000;*/
 }
 
-.para{
+.para {
   font-family: "Noto Sans", sans-serif;
   color: #727272;
   font-size: 96%;
 }
 
 /*Cover Text*/
+
 .details {
   transform: translateY(-50%);
   top: 50%;
@@ -49,12 +50,15 @@ header {
 
 .details-inner {
   opacity: 0;
-  background-color: black;
   text-transform: uppercase;
   text-align: center;
   color: #fff;
   font-size: 80%;
   position: relative;
+}
+
+.details-inner img:hover {
+  opacity: 0.5;
 }
 
 .details-inner:hover {
@@ -83,8 +87,9 @@ header {
 }
 
 nav {
-  font-size: 270%;
+  font-size: 200%;
   text-align: center;
+  padding-bottom: 0;
 }
 
 nav a {
