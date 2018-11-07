@@ -132,12 +132,6 @@ nav a:hover {
 
 }
 
-.icon-social {
-  height: 36px;
-  width: 36px;
-  display: inline-block;
-}
-
 h3,h4,h5 {
   color: #DBA7B4;
   font-size: 23px;
@@ -188,7 +182,8 @@ p {
 
 .bakery-2 {
   display: block;
-  width: 170%;
+  width: 60%;
+  margin: 0 auto;
 }
 
 .colour {
@@ -196,7 +191,7 @@ p {
 }
 
 .fonts {
-  width: 90%;
+  /*width: 90%;*/
 }
 
 /*Gardenlife*/
@@ -213,13 +208,13 @@ p {
 }
 
 .visualdesign {
-  width: 240%;
+  /*width: 240%;*/
 }
 
 /*rebranding*/
 
-.bw {
-  width: 200%;
+.container {
+  display: inline-block;
 }
 
 @media only screen and (min-width: 38em) {
@@ -277,10 +272,6 @@ p {
 
 /*Package*/
 
-/*.package {
-  width: 205%;
-} */
-
 .package-1 {
   width: 285%;
 }
@@ -290,4 +281,12 @@ p {
   font-family: "Noto Sans", sans-serif;
   color: #727272;
   font-size: 96%;
+}
+
+/*footer*/
+
+.icon-social {
+  height: 36px;
+  width: 36px;
+  display: inline-block;
 }
