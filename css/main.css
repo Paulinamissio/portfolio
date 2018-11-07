@@ -26,12 +26,15 @@ text-size-adjust: 100%;
   width: 124px;
 }
 
+.logo-wrap {
+  text-align: center;
+}
+
 img {
   border: 0;
 }
 
-a{
-  text-align: left;
+a {
   text-decoration: none;
 }
 
@@ -121,10 +124,6 @@ nav a:hover {
 
 @media only screen and (min-width: 60em) {
 
-  .logo {
-  text-align: left;
-}
-
   ul {
     text-align: right;
   }
@@ -171,6 +170,10 @@ p {
 
 /*Batterupbakery*/
 
+.batter {
+  padding-left: 7rem;
+}
+
 .social-list {
   list-style-type: none;
   padding-left: 0;
@@ -213,11 +216,13 @@ p {
 
 /*rebranding*/
 
+.jc {
+  padding-left: 14rem;
+}
+
 .container {
   display: inline-block;
 }
-
-@media only screen and (min-width: 38em) {
 
 .name {
     color: #FFFFFF;
@@ -226,10 +231,6 @@ p {
 .package {
   width: 205%;
 }
-
-  .img-1{
-    width: 210%;
-  }
 
 /*about me*/
 
@@ -256,20 +257,6 @@ p {
   padding-left: 14rem;
 }
 
-}
-
-@media only screen and (min-width: 60em) {
-
-  h1 {
-    text-align: left;
-  }
-
-  .batter {
-    width: 200%;
-    padding-left: 14rem;
-  }
-}
-
 /*Package*/
 
 .package-1 {
@@ -289,4 +276,35 @@ p {
   height: 36px;
   width: 36px;
   display: inline-block;
+}
+
+.inline {
+  display: inline-block;
+}
+
+
+@media only screen and (min-width: 60em) {
+
+  h1 {
+    text-align: left;
+  }
+
+  .i-64 {
+  text-align: left;
+}
+}
+
+@media only screen and (min-width: 38em) {
+
+.jc {
+  text-align: center;
+}
+
+.i-64 {
+  text-align: center;
+}
+
+.batter {
+  text-align: center;
+}
 }
