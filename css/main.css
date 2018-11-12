@@ -24,7 +24,7 @@ text-size-adjust: 100%;
 }
 
 .gardenlogo {
-  width: 110%;
+  width: 80%;
   margin: 0 auto;
 }
 
@@ -144,6 +144,7 @@ nav a:hover {
 }
 
 h3,h4,h5 {
+    /*background-color: #727272;*/
   color: #DBA7B4;
   font-size: 26px;
   text-align: center;
@@ -189,7 +190,9 @@ p {
 /*Batterupbakery*/
 
 .batter {
-  width: 250%;
+  width: 200%;
+  display: block;
+    margin: 0 auto;
 }
 
 .social-list {
@@ -203,7 +206,7 @@ p {
 
 .bakery-2 {
   display: block;
-  width: 60%;
+  width: 70%;
   margin: 0 auto;
 }
 
