@@ -106,7 +106,6 @@ header {
 /*end*/
 
 .footertext {
-  text-align: center;
   color: #DBA7B4;
 }
 
@@ -292,6 +291,13 @@ p {
 }
 
 /*footer*/
+
+footer {
+  display: block;
+  margin: 0 auto;
+  padding: 10%;
+  padding-bottom: 0;
+}
 
 .icon-social {
   height: 36px;
