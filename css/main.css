@@ -31,8 +31,8 @@ text-size-adjust: 100%;
 /*watermark*/
 
 .i-64 {
-  height: 124px;
-  width: 124px;
+  height: 127px;
+  width: 127px;
   display: block;
   margin: auto auto;
 }
@@ -133,6 +133,10 @@ nav a:hover {
 }
 
 @media only screen and (min-width: 60em) {
+
+.i-64{
+  text-align: center;
+}
 
   ul {
     text-align: right;
@@ -300,6 +304,7 @@ p {
 }
 
 /*footer*/
+
 .icon-social {
   height: 36px;
   width: 36px;
@@ -308,15 +313,8 @@ p {
 }
 
 .inline {
+  float: right;
   display: inline-block;
-}
-
-
-@media only screen and (min-width: 60em) {
-
-  h1 {
-    text-align: left;
-  }
 }
 
 @media only screen and (min-width: 38em) {
