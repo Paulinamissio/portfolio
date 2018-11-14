@@ -183,7 +183,7 @@ p {
 /*Batterupbakery*/
 
 .batter {
-  width: 200%;
+  /*width: 200%;*/
   display: block;
     margin: 0 auto;
 }
