@@ -283,6 +283,7 @@ p {
 .selfie {
   -webkit-clip-path: circle(33% at 50% 50%);
   /*clip-path: circle (33% at 50% 50%);*/
+  margin: auto;
   max-width: 60%;
 }
 
