@@ -33,6 +33,8 @@ text-size-adjust: 100%;
 .i-64 {
   height: 124px;
   width: 124px;
+  display: block;
+  margin: 0 auto;
 }
 
 .logo-wrap {
@@ -319,19 +321,11 @@ p {
   h1 {
     text-align: left;
   }
-
-  .i-64 {
-  text-align: left;
-}
 }
 
 @media only screen and (min-width: 38em) {
 
 .jc {
-  text-align: center;
-}
-
-.i-64 {
   text-align: center;
 }
 
