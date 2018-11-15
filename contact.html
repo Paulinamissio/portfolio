@@ -1,0 +1,26 @@
+---
+layout: default
+title: contact
+---
+
+<section id="contact" class="form pad-t-2 pad-b-2 gutter-1-2">
+      <h3 class="mega pad-b"> Send me a Message! </h3>
+
+      <form class="push-0" method="POST" action="https://formspree.io/paolinamissio@fastmail.com">
+        <div class="push">
+          <label class="push" for="name"> Full Name </label>
+          <input id="name" placeholder="your name" name="name" required>
+        </div>
+        <div class="push">
+          <label class="seperate" for="email"> Your Email </label>
+          <input id="email" type="email" placeholder="me@me.com" name="email" required>
+        </div>
+        <div class="push">
+          <label class="seperate" for="details"> Subject </label>
+          <textarea id="details" name="message" required> </textarea>
+        </div>
+        <div>
+          <button class="btn" type="submit">Send Message </button>
+        </div>
+      </form>
+  </section>
