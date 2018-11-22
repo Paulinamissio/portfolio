@@ -328,7 +328,7 @@
   align-self: center;
 }
 
-@media only screen and (min-width: 25em) {
+@media only screen and (min-width: 0em) {
 
   .unit-s-hidden,
   .s-0 {
@@ -342,7 +342,7 @@
 
   .unit-s-1,
   .s-1 {
-    display: block;
+    display: block;*/
     visibility: visible;
     width: 100%;
   }
