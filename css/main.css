@@ -163,11 +163,16 @@ p {
 
 /*about me section*/
 
+.contact {
+  color: #DBA7B4;
+  text-align: left;
+}
+
 .grid {
   margin: 0;
   padding: 0;
   display: flex;
-  letter-spacing: -.31em;
+  letter-spacing: -.36em;
   flex-flow: row wrap;
   text-rendering: optimizeSpeed;
 }
@@ -179,6 +184,7 @@ p {
 .about-myself{
   font-family: "Noto Sans", sans-serif;
   display: block;
+  text-align: left;
 }
 
 /*Batterupbakery*/
