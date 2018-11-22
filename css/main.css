@@ -150,6 +150,7 @@ h3,h4,h5 {
 }
 
 p {
+  text-align: center;
   color: #727272;
   padding-top: 2%;
   margin-left: 10%;
