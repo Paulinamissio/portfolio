@@ -302,11 +302,11 @@ p {
 footer {
   display: block;
   margin: 0 auto;
-  padding: 10%;
   padding-bottom: 0;
 }
 
 .icon-social {
+  text-align: center;
   height: 36px;
   width: 36px;
   display: block;
