@@ -159,6 +159,8 @@ p {
 
 .p-1 {
   color: #DBA7B4;
+  display: block;
+  margin: 0 auto;
 }
 
 /*about me section*/
