@@ -349,3 +349,7 @@ footer {
   margin: 0 auto;
   width: 50%;
 }
+
+.width-1 {
+  max-width: 1000;
+}
