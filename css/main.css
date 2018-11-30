@@ -357,19 +357,22 @@ footer {
 /*error*/
 
 error-page {
-  display: block;
-  margin: 0 auto;
   background-color: #DBA7B4;
   text-align: center;
 }
 
 .error-btn:hover {
-  background-color: #000;
   color: #DBA7B4;
+  background-color: white;
 }
 
 .error-btn {
   display: inline-block;
+  padding: 8px;
+  border-radius: 6px;
+  background-color: #727272;
+  border-color: #727272;
+  color: white;
 }
 
 .error-page {
