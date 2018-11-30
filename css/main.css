@@ -378,4 +378,15 @@ error-page {
 
 .error-title {
   line-height: 2rem;
+  text-align: center;
+}
+
+.sorry {
+  line-height: 0;
+}
+
+.frog {
+  width: 50%;
+  margin: 0 auto;
+  display: block;
 }
