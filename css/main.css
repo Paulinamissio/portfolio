@@ -357,6 +357,8 @@ footer {
 /*error*/
 
 error-page {
+  display: block;
+  margin: 0 auto;
   background-color: #DBA7B4;
   text-align: center;
 }
