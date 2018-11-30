@@ -353,3 +353,27 @@ footer {
 .width-1 {
   max-width: 1000;
 }
+
+/*error*/
+
+error-page {
+  background-color: #DBA7B4;
+  text-align: center;
+}
+
+.error-btn:hover {
+  background-color: #000;
+  color: #DBA7B4;
+}
+
+.error-btn {
+  display: inline-block;
+}
+
+.error-page {
+  padding-top: 3em;
+}
+
+.error-title {
+  line-height: 2rem;
+}
