@@ -125,19 +125,6 @@ nav a:hover {
   color: #F4ABAB;
 }
 
-@media only screen and (min-width: 60em) {
-
-.i-64{
-  text-align: center;
-}
-
-  ul {
-    text-align: right;
-  }
-
-
-}
-
 h3,h4,h5 {
   color: #DBA7B4;
   font-size: 26px;
@@ -323,17 +310,6 @@ footer {
   display: inline-block;
 }
 
-@media only screen and (min-width: 38em) {
-
-.jc {
-  text-align: center;
-}
-
-.batter {
-  text-align: center;
-}
-}
-
 /*video*/
 
 /*form*/
@@ -398,3 +374,60 @@ error-page {
   color: #DBA7B4;
 }
 /*end*/
+
+
+@media only screen and (min-width: 0em) {
+
+ .subjectboxsize {
+   width: 300px;
+   height: 100px;
+ }
+
+ .eboxsize {
+   width: 200px;
+ }
+
+
+@media only screen and (min-width: 38em) {
+
+  .jc {
+    text-align: center;
+  }
+
+  .batter {
+    text-align: center;
+  }
+
+   .subjectboxsize {
+   width: 550px;
+   height: 150px;
+   padding: .1625rem;
+ }
+
+ .eboxsize {
+   width: 300px;
+   padding: .1625rem;
+ }
+}
+
+ @media only screen and (min-width: 60em) {
+
+   .i-64{
+     text-align: center;
+   }
+
+     ul {
+       text-align: right;
+     }
+
+   .subjectboxsize {
+   width: 700px;
+   height: 200px;
+   padding: .1625rem;
+ }
+
+ .eboxsize {
+   width: 400px;
+   padding: .1625rem;
+ }
+}
