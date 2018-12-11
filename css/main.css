@@ -430,3 +430,9 @@ error-page {
    padding: .1625rem;
  }
 }
+
+.img-1 {
+  width: 67%;
+  display: block;
+  margin: auto auto;
+}
