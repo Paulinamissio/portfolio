@@ -19,6 +19,14 @@ text-size-adjust: 100%;
   box-sizing: inherit;
 }
 
+.resume {
+  font-family: "Noto Sans", sans-serif;
+  color: #DBA7B4;
+  text-align: center;
+  display: block;
+  margin: auto auto;
+}
+
 .space {
   padding-top: 7%;
 }
