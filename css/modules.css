@@ -80,8 +80,15 @@ img {
 
 .img-flex,
 .img-flex img {
+  margin: 0 auto;
   display: block;
   width: 100%;
+}
+
+.img-flex-1 {
+  margin: 0 auto;
+  display: block;
+  width: 80%;
 }
 
 svg {

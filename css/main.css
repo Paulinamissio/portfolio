@@ -242,9 +242,15 @@ p {
 
 /*rebranding*/
 
-.bw{
+.bw {
   width: 80%;
   margin: 0 auto;
+}
+
+.bw-1 {
+  width: 100%;
+  margin: 0 auto;
+
 }
 
 .jc {
@@ -334,6 +340,13 @@ footer {
   display: block;
   margin: 0 auto;
   width: 50%;
+}
+
+/*JC Robinson sketches scaling*/
+.sketches-0 {
+  display: block;
+  margin: 0 auto;
+  width: 80%;
 }
 
 .width-1 {
