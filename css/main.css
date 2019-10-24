@@ -92,7 +92,7 @@ header {
 
 .title {
   transition: color 0.5s ease;
-  background: rgba(255,255,255, .3);
+  font-weight: bold;
   padding: 10%;
   text-align: center;
   /*color: #DBA7B4;*/
