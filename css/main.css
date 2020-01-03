@@ -320,10 +320,10 @@ p {
 }
 
 .selfie {
-  -webkit-clip-path: circle(43% at 50% 50%);
+  -webkit-clip-path: circle(37% at 50% 50%);
   /*clip-path: circle (33% at 50% 50%);*/
   margin: 0;
-  max-width: 30%;
+  max-width: 40%;
 
 }
 
