@@ -21,7 +21,7 @@ text-size-adjust: 100%;
 
 .resume {
   font-family: "Noto Sans", sans-serif;
-  color: #DBA7B4;
+  color: #ACA0AC;
   text-align: center;
   display: block;
   margin: auto auto;
@@ -61,7 +61,7 @@ a:any-link {
 /*end*/
 
 header {
-  background: #DAA7B4;
+  background: #ACA0AC;
   padding: 1em;
 }
 
@@ -118,7 +118,7 @@ header {
 /*end*/
 
 .footertext {
-  color: #DBA7B4;
+  color: #ACA0AC;
 }
 
 nav {
@@ -137,13 +137,13 @@ nav a:hover {
 }
 
 h3 {
-  color: #DBA7B4;
+  color: #ACA0AC;
   font-size: 26px;
   text-align: left;
   margin-left: 10%;
 }
 h4 {
-  color: #DBA7B4;
+  color: #ACA0AC;
   font-size: 26px;
   text-align: left;
   margin-left: 10%;
@@ -158,7 +158,7 @@ h5 {
 }
 
 h6 {
-  color: #DBA7B4;
+  color: #ACA0AC;
   font-size: 30px;
   text-align: left;
   margin-left: 10%;
@@ -169,7 +169,7 @@ h6 {
 }
 
 .hr {
-  border: 1px solid #DBA7B4;
+  border: 1px solid #ACA0AC;
 }
 
 p {
@@ -195,13 +195,13 @@ p {
 }
 
 .missio {
-  color: #DBA7B4;
+  color: #ACA0AC;
 }
 
 /*about me section*/
 
 .contact {
-  color: #DBA7B4;
+  color: #ACA0AC;
   text-align: left;
 }
 
@@ -270,7 +270,7 @@ p {
 }
 
 .btn a {
-  color: #DBA7B4;
+  color: #ACA0AC;
   background-color: white;
 }
 
@@ -320,10 +320,10 @@ p {
 }
 
 .selfie {
-  -webkit-clip-path: circle(33% at 50% 50%);
+  -webkit-clip-path: circle(43% at 50% 50%);
   /*clip-path: circle (33% at 50% 50%);*/
-  margin: auto;
-  max-width: 60%;
+  margin: 0;
+  max-width: 30%;
 
 }
 
@@ -391,12 +391,12 @@ footer {
 /*error*/
 
 error-page {
-  background-color: #DBA7B4;
+  background-color: #ACA0AC;
   text-align: center;
 }
 
 .error-btn:hover {
-  color: #DBA7B4;
+  color: #ACA0AC;
   background-color: white;
 }
 
@@ -429,9 +429,13 @@ error-page {
 }
 
 .link {
-  color: #DBA7B4;
+  color: #ACA0AC;
 }
 /*end*/
+
+.change {
+  color: #ACA0AC;
+}
 
 @media only screen and (min-width: 0em) {
 
