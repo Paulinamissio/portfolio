@@ -533,6 +533,22 @@ error-page {
   padding-bottom: 1px;
 }
 
+  /*Link for illustartions page*/
+  #hovertext {
+    border: none;
+    color: #ACA0AC;
+    text-align: center;
+    font-size: 30px;
+    opacity: 0.6;
+    transition: 0.3s;
+    /*text-decoration: underline;*/
+    font-weight:bold;
+  }
+
+  #hovertext:hover {
+    opacity: 1;
+  }
+
 
 @media only screen and (max-width: 55em) {
   .column1 {
@@ -552,4 +568,5 @@ error-page {
     padding-left: 10px;
     padding-top: 50px;
   }
+
 }
