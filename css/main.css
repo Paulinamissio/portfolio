@@ -60,7 +60,7 @@ a:any-link {
 /*end*/
 
 header {
-  background: #cac0c9;
+  background: #c6bacc;
   padding: 1em;
 }
 
@@ -117,7 +117,7 @@ header {
 /*end*/
 
 .footertext {
-  color: #cac0c9;
+  color: #c6bacc;
 }
 
 nav {
@@ -136,20 +136,20 @@ nav a:hover {
 }
 
 h3 {
-  color: #cac0c9;
+  color: #c6bacc;
   font-size: 26px;
   text-align: left;
   margin-left: 10%;
 }
 h4 {
-  color: #cac0c9;
+  color: #c6bacc;
   font-size: 26px;
   text-align: left;
   margin-left: 10%;
 }
 
 h5 {
-  color: #cac0c9;
+  color: #c6bacc;
   font-size: 20px;
   font-style: italic;
   text-align: left;
@@ -157,7 +157,7 @@ h5 {
 }
 
 h6 {
-  color: #cac0c9;
+  color: #c6bacc;
   font-size: 30px;
   text-align: left;
   margin-left: 10%;
@@ -168,7 +168,7 @@ h6 {
 }
 
 .hr {
-  border: 1px solid #cac0c9;
+  border: 1px solid #c6bacc;
 }
 
 p {
@@ -194,13 +194,13 @@ p {
 }
 
 .missio {
-  color: #cac0c9;
+  color: #c6bacc;
 }
 
 /*about me section*/
 
 .contact {
-  color: #cac0c9;
+  color: #c6bacc;
   text-align: left;
 }
 
@@ -269,7 +269,7 @@ p {
 }
 
 .btn a {
-  color: #cac0c9;
+  color: #c6bacc;
   background-color: white;
 }
 
@@ -396,12 +396,12 @@ footer {
 /*error*/
 
 error-page {
-  background-color: #cac0c9;
+  background-color: #c6bacc;
   text-align: center;
 }
 
 .error-btn:hover {
-  color: #cac0c9;
+  color: #c6bacc;
   background-color: white;
 }
 
@@ -434,12 +434,12 @@ error-page {
 }
 
 .link {
-  color: #cac0c9;
+  color: #c6bacc;
 }
 /*end*/
 
 .change {
-  color: #cac0c9;
+  color: #c6bacc;
 }
 
 @media only screen and (min-width: 0em) {
